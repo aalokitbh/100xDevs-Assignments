@@ -18,7 +18,7 @@ Each week focuses on specific topics covered in that particular week.
 - [✅] Vertical Align
 - [✅] Flex Layout
 - [✅] Grid Layout
-- [ ] More Complicated Grid
+- [✅] More Complicated Grid
 - [ ] VSCode Bottombar
 - [ ] Zerodha Landing Page
 
