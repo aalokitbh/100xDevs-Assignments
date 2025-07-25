@@ -1,0 +1,17 @@
+/*
+  Write a function `isAnagram` which takes 2 parameters and returns true/false if those are anagrams or not.
+  What's Anagram?
+  - A word, phrase, or name formed by rearranging the letters of another, such as spar, formed from rasp.
+*/
+
+function isAnagram(str1, str2) {
+    const sortedstring1 = str1.ToLowerCase().split("").sort().join("");
+    const sortedstring2 = str2.ToLowerCase().split("").sort().join("");
+    if(sortedstring1 == sortedstring2) {
+        return true
+    }else {
+        return false;
+    }
+}
+
+module.exports = isAnagram;
