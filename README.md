@@ -23,9 +23,9 @@ Each week focuses on specific topics covered in that particular week.
 - [ ] Zerodha Landing Page
 
 ### Week 2 - JavaScript Fundamentals Problems [Status: Upcoming]
-- [ ] Basic JavaScript concepts
-- [ ] Functions and scope
-- [ ] DOM manipulation
-- [ ] Event handling
+#### Easy
+- [✅] FindLargestnumber.js
+- [✅] Anagram.js
+- [✅] Expenditure_Analysis.js
 
-*(Coming soon...)*
+#### Medium
