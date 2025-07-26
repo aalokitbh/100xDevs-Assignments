@@ -22,7 +22,7 @@ Each week focuses on specific topics covered in that particular week.
 - [ ] VSCode Bottombar
 - [ ] Zerodha Landing Page
 
-## Week 2 - JavaScript Fundamentals Problems [Status: Upcoming]
+## Week 2 - JavaScript Fundamentals Problems [Completed : 26 July 2025]
 
 ### Week-2-js
 #### Easy
